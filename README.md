@@ -18,8 +18,8 @@ This repository contains a detailed PDF cheat sheet and summary covering all the
 
 ## 📂 File
 
-- [`Git cheat sheet.pdf`](Git_CheatSheet_2025.pdf)
-- [`Git Summary.pdf`](Git_Summary_2025.pdf)
+- [`Git cheat sheet.pdf`](Git_Cheat sheet.pdf)
+- [`Git Summary.pdf`](Git_Summary.pdf)
 
 Click the files above to **view or download**.
 
